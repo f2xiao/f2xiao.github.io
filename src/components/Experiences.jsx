@@ -43,7 +43,7 @@ const Experiences = () => {
       icon: readingIcon,
     },
     {
-      time: "MAR 2017 - FEB 2020",
+      time: "MAR 2017 - FEB 2023",
       title: "Mechanical Engineer Candidate",
       subtitle: "Engineering Field",
       details: [
