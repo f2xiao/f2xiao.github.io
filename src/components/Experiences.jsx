@@ -47,7 +47,7 @@ const Experiences = () => {
       title: "Mechanical Engineer Candidate",
       subtitle: "Engineering Field",
       details: [
-        "I worked for automotive and aerospace suppliers for 3 years and went through various positions: mechanical engineer, project engineer, metallurgist lab assistant,\nDuring this time, I accumulated a great deal of engineering experience and communication skills",
+        "I worked for automotive and aerospace suppliers for a few years and went through various positions: mechanical engineer, project engineer, metallurgist lab assistant,\nDuring this time, I accumulated a great deal of engineering experience and communication skills",
       ],
       icon: engineeringIcon,
     },
